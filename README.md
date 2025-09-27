@@ -2,6 +2,8 @@ Unity version 2022.3.45f1
 
 Go to Assets/Scenes and open SampleScene if you don't see anything.
 
+Shader for the globe is called EarthInfrared.shadergraph and located in Assets/Art
+
 Quick tutorial when in Play mode/running a build:
 
 Right Mouse button - drag around to rotate globe
