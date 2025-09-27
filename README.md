@@ -1,3 +1,5 @@
+Unity version 2022.3.45f1
+
 Quick tutorial when in Play mode/running a build:
 
 Right Mouse button - drag around to rotate globe
